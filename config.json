@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+  "data-db-connection": "mongodb+srv://Will_ciclo_4:Will202210.@clusterwill.pznlefe.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "bd-registraduria"
+}
+
